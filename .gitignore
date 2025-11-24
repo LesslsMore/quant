@@ -1,0 +1,13 @@
+# 忽略所有 zip 和 pdf 文件
+*.zip
+*.pdf
+
+# 忽略所有 .idea 目录
+**/.idea/
+**/.spyproject/
+
+# 忽略所有 .Spider嘀嘟分享.png 文件
+**/.Spider嘀嘟分享.png
+**/.说明.txt
+
+量化小讲堂141：邢不行——市净率指标研究数据代码/data/output/all_stock_data_M.pkl
